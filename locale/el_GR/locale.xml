@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/cookieNotificationBanner/locale/el_GR/locale.xml
+  *
+  * Copyright (c) 2017 National Documentation Centre
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the el_GR locale.
+  *
+  -->
+
+<locale name="el_GR" full_name="ελληνικά">
+	<message key="plugins.generic.cookieNotificationBanner.displayName">Πρόσθετο cookieNotificationBanner</message>
+	<message key="plugins.generic.cookieNotificationBanner.description">Πρόσθετο cookieNotificationBanner</message>
+	<message key="plugins.generic.cookieNotificationBanner.descriptionLong">Το πρόσθετο αυτό δίνει την δυνατότητα προσθήκης cookieNotificationBanner</message>
+	<message key="plugins.generic.cookieNotificationBanner.message">Η πλατφόρμα eJournals χρησιμοποιεί cookies για την διασφάλιση της εμπειρίας χρήσης του επισκέπτη της.</message>
+</locale>

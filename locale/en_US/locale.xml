@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/cookieNotificationBanner/locale/en_US/locale.xml
+  *
+  * Copyright (c) 2017 National Documentation Centre
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.generic.cookieNotificationBanner.displayName">CookieNotificationBanner Plugin</message>
+	<message key="plugins.generic.cookieNotificationBanner.description">CookieNotificationBanner Plugin</message>
+	<message key="plugins.generic.cookieNotificationBanner.descriptionLong">This plugin allows you add a CookieNotificationBanner</message>
+	<message key="plugins.generic.cookieNotificationBanner.message">This website uses cookies to ensure you get the best experience on our website.</message>
+
+</locale>
